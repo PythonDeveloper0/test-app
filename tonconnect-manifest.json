@@ -1,0 +1,9 @@
+{
+    "name": "NotMineApp",
+    "url": "https://mellow-dango-15824c.netlify.app",
+    "iconUrl": "https://mellow-dango-15824c.netlify.app/not_logo.png",
+    "bridgeUrl": "https://bridge.tonconnect.org/bridge",
+    "permissions": [
+      "ton_wallet"
+    ]
+  }
