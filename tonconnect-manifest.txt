@@ -1,5 +1,5 @@
 {
     "name": "NotMineApp",
     "url": "https://mellow-dango-15824c.netlify.app",
-    "iconUrl": "https://mellow-dango-15824c.netlify.app/not_logo.png"
+    "iconUrl": "https://github.com/PythonDeveloper0/test-app/blob/main/not_logo.png"
   }
